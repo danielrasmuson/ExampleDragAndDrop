@@ -1,0 +1,19 @@
+{
+  "name": "dragAndDrop",
+  "version": "0.0.0",
+  "authors": [
+    "Daniel Rasmuson <dan123911@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "dragula.js": "~3.0.3",
+    "bootstrap": "~3.3.5"
+  }
+}
